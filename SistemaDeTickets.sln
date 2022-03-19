@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaDeTickets", "SistemaDeTickets\SistemaDeTickets.csproj", "{031F0F4B-F401-4836-81F7-5BF2AA8A3158}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{031F0F4B-F401-4836-81F7-5BF2AA8A3158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{031F0F4B-F401-4836-81F7-5BF2AA8A3158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{031F0F4B-F401-4836-81F7-5BF2AA8A3158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{031F0F4B-F401-4836-81F7-5BF2AA8A3158}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC44E5BE-444C-400F-B030-A35B3272C618}
+	EndGlobalSection
+EndGlobal
